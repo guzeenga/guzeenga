@@ -22,6 +22,7 @@ Prazer, Guzenga.
 🐧 Afinidade com sistemas Debian, Ubuntu, Mint e Windows.
 🛠️ Experiente em gerenciamento de servidores Linux  
 🎮 Gamer competitivo nas horas vagas
+-------------------------
 ```
 <hr>
 
